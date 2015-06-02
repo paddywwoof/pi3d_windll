@@ -18,3 +18,11 @@ run the demos.
 See general instructions here:
 
 http://pi3d.github.io/html/ReadMe.html#windows
+
+This zip download will be about 5.6MB
+
+NB as a general rule you should ensure that your virus checker gets a sniff
+at all .exe and .dll files, including these. I assume they're clean but
+I basically just downloaded and compiled the ANGLE project code from
+
+https://code.google.com/p/angleproject/source/checkout
