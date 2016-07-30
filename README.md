@@ -1,10 +1,8 @@
 DLL files for Windows installation of pi3d
 ==========================================
 
-NB this now includes two versions of the dll files, one with ANGLE_DEFAULT_D3D11
-set on and one with it set OFF. This doesn't seem to make a difference
-on my laptop, but it was previously set OFF. Please let me know if it makes
-any difference!
+**NB these files are quite big and contain no source code so it's a bad idea 
+to use git to clone this repository. Use the download zip option**
 
 Unzip the 32 bit or 64 bit dll files into the main directory of your
 python project that's using pi3d.
